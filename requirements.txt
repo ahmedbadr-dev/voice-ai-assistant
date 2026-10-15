@@ -1,0 +1,5 @@
+google-generativeai>=0.8.0
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+python-dotenv>=1.0.0
+PyAudio>=0.2.14
